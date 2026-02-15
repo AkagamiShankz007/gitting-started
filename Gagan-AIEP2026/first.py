@@ -1,0 +1,1 @@
+print("Ohaiyo sekai good morning warldo")
